@@ -10,3 +10,5 @@ This is the steps to deploy a project to Github page.
 6. Go to settings and edit the Github Pages section to enable your main branch to publish your HTML site as a webpage.
 7. You will get an URL.
 8. Your HTML file in your main branch will display as a webpage to show your dashboard or visualization charts.
+
+https://lora-borja.github.io/Plotly_Project/
