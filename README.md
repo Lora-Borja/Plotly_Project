@@ -2,7 +2,7 @@
 
 This is the steps to deploy a project to Github page.
 
-1. Create you HTML.
+1. Create your HTML page.
 2. Create your repository.
 3. Clone to your local directory.
 4. Copy your project into the cloned repository folder.
