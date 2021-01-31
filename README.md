@@ -11,4 +11,5 @@ This is the steps to deploy a project to Github page.
 7. You will get an URL.
 8. Your HTML file in your main branch will display as a webpage to show your dashboard or visualization charts.
 
+Click this URL to see the sample.
 https://lora-borja.github.io/Plotly_Project/
